@@ -48,7 +48,7 @@ python guitar.py
   Your browser does not support the audio element.
 </audio>
 
-[Download the_last_of_us_main_theme.wav](the_last_of_us_main_theme.wav)
+[Play online or download the_last_of_us_main_theme.wav](the_last_of_us_main_theme.wav)
 
 ## Adding Your Own Songs
 
